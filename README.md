@@ -2,4 +2,6 @@
 
 Keeping track of the bugs found in Hitman 2016 and when (or if) they're fixed. Hitman fans want to help make Hitman 2016 the best Hitman game yet!
 
-Click the 'Issues' tab to view posted bugs or add ones you've found. Please be sure to include a concise title, detailed description, and screenshots/video if applicable.
+Click the 'Issues' tab to view posted bugs or add a new one you've discovered. Please be sure to include a clear title, detailed description (i.e. what you did you cause the bug), and screenshots/video if applicable.
+
+If a bug you've encountered has already had an issue page created, feel free to provide additional proof of the bug (e.g. comment, text descriptions, screenshots, videos, etc.) in the existing issue page.
